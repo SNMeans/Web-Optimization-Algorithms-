@@ -48,5 +48,7 @@ This implementation was particularly crucial in enhancing user experience, as it
 - Sorting by Price: Using the iterative sort algorithm, I enabled the website to display products starting from the lowest to the highest price or vice versa, depending on the user's preference. This is crucial for budget-conscious buyers who are looking for the best deals.
 * Sorting by Popularity: By developing a custom algorithm to sort products based on sales data and user ratings, the website now showcases the most popular products prominently, thereby increasing user engagement and potential sales.
 
+## License
+MIT License 
 
 
