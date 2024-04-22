@@ -6,6 +6,6 @@ This project involves implementing custom sorting and searching algorithms witho
 * Pytest for testing
 
 ## Features
-- Iterative Sort: Implemented an On^2 sorting algorithm. This includes classic techniques like Bubble Sort, which, despite its simplicity, offers substantial learning insights into algorithm optimization.
-* Recursive Binary Search: Implemented using recursion, showcasing an Ologn earch efficiency, ideal for sorted data arrays.
+- Iterative Sort: Implemented an  `O(n²)` sorting algorithm. This includes classic techniques like Bubble Sort, which, despite its simplicity, offers substantial learning insights into algorithm optimization.
+* Recursive Binary Search: Implemented using recursion, showcasing an `O(log n)` search efficiency, ideal for sorted data arrays.
 + Application in Web Development: Integrated these algorithms into freelance projects to enhance features such as product sorting by popularity and price on e-commerce platforms
